@@ -1,0 +1,1 @@
+cmd_/home/batch-2/Desktop/ELDD_Ankita_09/ques1/q1.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -z noexecstack   --build-id  -T ./scripts/module-common.lds -o /home/batch-2/Desktop/ELDD_Ankita_09/ques1/q1.ko /home/batch-2/Desktop/ELDD_Ankita_09/ques1/q1.o /home/batch-2/Desktop/ELDD_Ankita_09/ques1/q1.mod.o;  true
